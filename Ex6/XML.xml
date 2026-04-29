@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<botiga xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="botiga.xsd">
+
+  <producte id="P001" estat="nou">
+    <nom>Portàtil Pro</nom>
+    <preu>900.99</preu>
+    <stock>10</stock>
+    <categoria>informatica</categoria>
+    <marca>MSI</marca>
+    <etiqueta>laptop</etiqueta>
+    <etiqueta1>ofimàtica</etiqueta1>
+  </producte>
+
+  <producte id="P002" estat="oferta">
+    <nom>El nen del pijama de ralles</nom>
+    <preu>12.95</preu>
+    <stock>42</stock>
+    <categoria>llibres</categoria>
+    <etiqueta>novela</etiqueta>
+  </producte>
+
+</botiga>
