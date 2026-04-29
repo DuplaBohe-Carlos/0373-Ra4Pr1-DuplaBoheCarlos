@@ -1,0 +1,11 @@
+
+<persona>
+    <nom>Carles Martínez</nom>
+    <dni>12345678A</dni>
+    <edat>28</edat>
+    <ciutat>Barcelona</ciutat>
+    <aficio>fotografia</aficio>
+    <aficio>senderisme</aficio>
+    <aficio>lectura</aficio>
+    <nivell>mitja</nivell>
+</persona>
