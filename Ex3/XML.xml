@@ -1,0 +1,21 @@
+<activitats>
+
+  <activitat codi="act1" tipus="esportiva">
+    <nom>Futbol</nom>
+    <monitor>Eduardo</monitor>
+    <horari>Dilluns i dijous, 19:00-20:30</horari>
+    <participant>Ruirong Fernández</participant>
+    <participant>Martin Puig</participant>
+    <lloc>exterior</lloc>
+  </activitat>
+
+  <activitat codi="act2" tipus="artistica">
+    <nom>dibuix artistic</nom>
+    <monitor>Martina</monitor>
+    <horari>Dimarts i divendres , 17:00-18:30</horari>
+    <participant>Sebastian Roca</participant>
+    <participant>Xavier sanchez </participant>
+    <lloc>interior</lloc>
+  </activitat>
+
+</activitats>
